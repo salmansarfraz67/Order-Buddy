@@ -1,0 +1,5 @@
+{
+  "name": "OrderBuddy",
+  "description": "A beginner-friendly order management web app for Pakistani small business owners selling via WhatsApp. Features invoice generation, sales tracking, and easy order management.",
+  "requestFramePermissions": []
+}
